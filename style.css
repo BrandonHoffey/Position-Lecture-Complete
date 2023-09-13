@@ -49,3 +49,13 @@
     /* position: sticky; */
     /* top: 0; */
 }
+
+.display-container {
+    margin-top: 2em;
+}
+
+.block-container {
+    border: 2px solid black;
+    margin: 5px;
+    /* display: inline; */
+}
