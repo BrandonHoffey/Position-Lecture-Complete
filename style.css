@@ -1,0 +1,51 @@
+.parent-container {
+    background-color: beige;
+    border: 2px solid black;
+    width: 
+    75vw;
+    height: 75vw;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* po0sition: relative; */
+}
+
+.child {
+    padding: 25px;
+}
+
+.child1 {
+    border: 2px solid red;
+    background-color: red;
+}
+
+.child2 {
+    border: 2px soid blueviolet;
+    background-color: blueviolet;
+
+    /* position: relative; */
+    /* right: 25px; */
+    /* top: 25px; */
+}
+
+.child3 {
+    border: 2px solid green;
+    background-color: green;
+
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+}
+
+.child4 {
+    border: 2px solid teal;
+    background-color: teal;
+    /* position: fixed; */
+    /* top: 0; */
+}
+
+.child5 {
+    border: 2px solid gray;
+    background-color: gray;
+    /* position: sticky; */
+    /* top: 0; */
+}
